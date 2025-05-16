@@ -2,7 +2,9 @@
 
 .venv/
 venv/
+
 nui/
+nats/data/
 
 .idea/
 .vscode/

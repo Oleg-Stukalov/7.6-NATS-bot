@@ -1,4 +1,4 @@
-hello-user = Hello { $username }. Click on the button
+hello-user = Hello, { $username }. Click on the button
 
 button-button = Button
 
